@@ -1,0 +1,22 @@
+[
+  {
+    "code": "jakarta",
+    "name": "Jakarta"
+  },
+  {
+    "code": "bandung",
+    "name": "Bandung"
+  },
+  {
+    "code": "surabaya",
+    "name": "Surabaya"
+  },
+  {
+    "code": "medan",
+    "name": "Medan"
+  },
+  {
+    "code": "denpasar",
+    "name": "Denpasar"
+  }
+]

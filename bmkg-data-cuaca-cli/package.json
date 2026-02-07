@@ -1,0 +1,16 @@
+{
+  "name": "bmkg-data-cuaca-cli",
+  "version": "0.1.0",
+  "description": "CLI to fetch BMKG weather data from infoBMKG/data-cuaca",
+  "type": "module",
+  "bin": {
+    "bmkg-data-cuaca": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
